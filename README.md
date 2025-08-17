@@ -32,12 +32,12 @@
 <p>I studied Software Programming and specialized in full stack web development and process systematization. I love to learn and face new challenges.</p>
 <p>Since then, I have been learning and growing in this field.</p>
 
-- 📄 I am currently **available for a new job opportunity**, this is **[my resume](https://read.cv/0xabdulkhalid)**.
-- 🔭 Passionate about building scalable web and applications, **experimenting with modern and optimized stacks**.
-- 🌱 I’m currently learning **Python**.
-- 💬 Ask me about **Astro, React**.
+- 📄 I am currently **available for a new job opportunity**, this is **[my resume](https://read.cv/0xabdulkhalid)**
+- 🔭 Passionate about building scalable web and applications, **experimenting with modern and optimized stacks**
+- 📚 I’m currently learning **Python**
+- 💬 Ask me about **Astro, React**
 - 🌐 Personal website **[link](https://www.0xabdulkhalid.ml)**
-- 📫 Feel free to reach me out **santiagocajamarca.37@gmail.com**.
+- 📫 Feel free to reach me out **santiagocajamarca.37@gmail.com**
 
 <br><br>
 
