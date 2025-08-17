@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center"><b>Hi, I'm Daniel Santiago </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <p align="center">
   <a href="mailto:ahmed.7oskaa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
