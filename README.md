@@ -2,12 +2,12 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-<div align="center" style="margin-botton: none;">
+<div align="center">
 
-  <h2 align="center" style="margin-botton:none; font-size: 2.5em; font-weight: bold;">
-  Hi, I'm Daniel Santiago 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h2>
+  <h2 style="font-size: 2.5em; font-weight: bold; border-bottom: none;">
+    Hi, I'm Daniel Santiago 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  </h2>
 
   <p>
     <a href="mailto:ahmed.7oskaa@gmail.com">
