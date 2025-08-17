@@ -36,7 +36,7 @@
 - 🔥 Passionate about building scalable web and applications, **experimenting with modern and optimized stacks**
 - 📚 I’m currently learning **Python**
 - 💬 Ask me about **Astro, React**
-- 🌐 Personal website **[link]**(https://www.0xabdulkhalid.ml)
+- 🌐 Visit my **web portfolio** [link](https://www.0xabdulkhalid.ml)
 - 📫 Feel free to reach me out **santiagocajamarca.37@gmail.com**
 
 <br><br>
