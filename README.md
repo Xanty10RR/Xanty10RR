@@ -29,10 +29,14 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 <br>
 
+<p>
 I studied Software Programming and specialized in full stack web development and process systematization. I love to learn and face new challenges.
-Since then, I have been learning and growing in this field and now I have over 6 months of work experience.
+</p>
+<p>
+Since then, I have been learning and growing in this field.
+</p>
 - 📄 I am currently available for a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
-- 🔭 
+- 🔭 Passionate about building scalable web and applications, experimenting with modern and optimized stacks.
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 - 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
