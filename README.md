@@ -24,15 +24,20 @@
 </p>
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## 
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- 📄 I am currently available for a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- 🔭 
+- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 🌐 Personal website [link](https://www.0xabdulkhalid.ml)
+- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
 
 <br><br>
 
