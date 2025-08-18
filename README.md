@@ -30,7 +30,8 @@
 </p>
 <br>
 
-<img src="https://github.com/user-attachments/assets/3d57e9e2-4a0e-4fa8-8e8a-d0fadc28c0bc" width="25"><b> **About Me**</b>
+<img src="https://github.com/user-attachments/assets/3d57e9e2-4a0e-4fa8-8e8a-d0fadc28c0bc" width="25">
+<b> **About Me**</b>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -130,5 +131,5 @@ santiagocajamarca.37@gmail.com**.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="25"><b> Métricas</b> 
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> **Metrics**</b> 
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=Xanty10RR&show_icons=true&theme=radical)  
