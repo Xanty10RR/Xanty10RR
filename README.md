@@ -30,7 +30,7 @@
 </p>
 <br>
 
-<img src="https://media.giphy.com/media/Ln3apL1zQke6vIVyK0/giphy.gif" width="25"><b> About Me</b>
+<img src="https://i.postimg.cc/Yqk3SqH6/user.gif" width="25"><b> About Me</b>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
