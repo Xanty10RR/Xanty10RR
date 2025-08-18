@@ -130,5 +130,5 @@ santiagocajamarca.37@gmail.com**.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyNnJ4cnZ4ZXdxY2d6OHI3YzBwcDlkNGllbDBhY2pxbWF3OW1uODVubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fbfV1naktgX34jDNy7/giphy.gif" height="35" width="35"><b> **Metrics**</b> 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyNnJ4cnZ4ZXdxY2d6OHI3YzBwcDlkNGllbDBhY2pxbWF3OW1uODVubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fbfV1naktgX34jDNy7/giphy.gif" height="35" width="45"><b> **Metrics**</b> 
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=Xanty10RR&show_icons=true&theme=radical)  
