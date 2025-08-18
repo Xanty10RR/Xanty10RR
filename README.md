@@ -30,7 +30,8 @@
 </p>
 <br>
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="25"><b> Sobre Mí</b>
+<img src="![17554943676104191153297886738399](https://github.com/user-attachments/assets/3d57e9e2-4a0e-4fa8-8e8a-d0fadc28c0bc)
+" width="25"><b> Sobre Mí</b>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
