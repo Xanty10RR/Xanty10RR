@@ -129,5 +129,6 @@ santiagocajamarca.37@gmail.com**.
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-## 📊 Métricas  
+
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="25"><b> Métricas</b> 
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=Xanty10RR&show_icons=true&theme=radical)  
