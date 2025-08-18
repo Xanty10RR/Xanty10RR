@@ -90,7 +90,7 @@ santiagocajamarca.37@gmail.com**.
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   <br>
 
-- **IDE's & Tools**
+- **IDEs & Tools**:
   
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-000000?style=for-the-badge&logo=sublimetext&logoColor=FF9800)
