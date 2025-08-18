@@ -109,14 +109,7 @@ santiagocajamarca.37@gmail.com**.
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
   <br>
 
-  - **Learning**:
+- **Learning**:
   
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 </p>
-
-<br>
-<br>
-
------
-
-<br>
