@@ -94,6 +94,7 @@ santiagocajamarca.37@gmail.com**.
   
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-000000?style=for-the-badge&logo=sublimetext&logoColor=FF9800)
+    ![XAMPP](https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white)
     ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
   <br>
 
