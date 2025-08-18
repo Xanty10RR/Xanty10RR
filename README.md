@@ -30,7 +30,7 @@
 </p>
 <br>
 
-<img src="https://ibb.co/5WdDtmJj" width="25"><b> About Me</b>
+<img src="https://iconscout.com/es/lottie-animation/persona-12989478_10659258" width="25"><b> About Me</b>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
