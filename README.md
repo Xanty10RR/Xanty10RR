@@ -88,7 +88,7 @@ santiagocajamarca.37@gmail.com**.
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  <br>
+  <br><br>
 
 - **IDEs & Tools**:
   
@@ -96,7 +96,7 @@ santiagocajamarca.37@gmail.com**.
     ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-000000?style=for-the-badge&logo=sublimetext&logoColor=FF9800)
     ![XAMPP](https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white)
     ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
-  <br>
+  <br><br>
 
 - **Cloud Hosting & DevOps**:
 
@@ -108,7 +108,7 @@ santiagocajamarca.37@gmail.com**.
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-  <br>
+  <br><br>
 
 - **Learning**:
   
