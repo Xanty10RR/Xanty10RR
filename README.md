@@ -100,10 +100,13 @@ santiagocajamarca.37@gmail.com**.
 
 - **APIs & IAs**
 
-![Twilio API](https://img.shields.io/badge/Twilio_API-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge&logo=webhooks&logoColor=white)
-<br>
+   ![Twilio API](https://img.shields.io/badge/Twilio_API-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+   ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+   ![Webhooks](https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge&logo=webhooks&logoColor=white)
+   ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+   ![Deepseek](https://img.shields.io/badge/Deepseek-000000?style=for-the-badge&logo=deepseek&logoColor=white)
+   ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+<br><br>
 
 - **Cloud Hosting & DevOps**:
 
