@@ -28,7 +28,7 @@
 <picture> <img align="right" src="https://github.com/Xanty10RR/Xanty10RR/blob/main/foto-anime.png?raw=true" width = 250px></picture>
 <br>
 
-<p>I studied Software Programming and specialize in full stack web development and process systematization. I love to learn and face new challenges.</p>
+<p>I studied Software Programming and specialize in full stack web development and process systematization. I love to learn and face new challenges, which drives me to continually improve my skills.</p>
 <p>Since then, I have been learning and growing in this field.</p>
 
 - 📄 I am currently **available for a new job opportunity**, this is **[my resume](https://drive.google.com/file/d/16L8pvVG2IpV64Oi4HUexWzxpDfz2wmj1/view?usp=drive_link)**.
