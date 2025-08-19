@@ -10,7 +10,10 @@
   </h1>
 
   <p>
-	  
+
+  <a href="">
+	  <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Chrome">
+  </a>
   <a href="mailto:santiagocajamarca.37@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
