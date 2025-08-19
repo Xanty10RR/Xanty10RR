@@ -6,7 +6,7 @@
 
   <h1 style="font-size: 2.5em; font-weight: bold; border: none;">
     Hi, I'm Daniel Santiago
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZxc2huOWhrMWw4cGxtdHByNnAzdXdlZzQ0eGF4Nzk4aWhvZWM4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RcZ5VktZE7RgdDLE2P/giphy.gif](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   </h1>
   
 </div>
