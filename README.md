@@ -18,7 +18,7 @@
 </p>
 <br>
 
-<img src="[https://media.giphy.com/media/Mlo4NM8o0pbTHcof2M/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZxc2huOWhrMWw4cGxtdHByNnAzdXdlZzQ0eGF4Nzk4aWhvZWM4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RcZ5VktZE7RgdDLE2P/giphy.gif)" width="25"><b> **About Me**</b>
+<img src="https://media.giphy.com/media/Mlo4NM8o0pbTHcof2M/giphy.gif" width="25"><b> **About Me**</b>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
