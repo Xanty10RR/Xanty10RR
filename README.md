@@ -1,5 +1,5 @@
 <p align = "center">
-	<img src = "https://github.com/Xanty10RR/Xanty10RR/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
 <div align="center">
@@ -31,11 +31,11 @@
 <p>I studied Software Programming and specialized in full stack web development and process systematization. I love to learn and face new challenges.</p>
 <p>Since then, I have been learning and growing in this field.</p>
 
-- 📄 I am currently **available for a new job opportunity**, this is **[my resume](https://read.cv/0xabdulkhalid)**.
+- 📄 I am currently **available for a new job opportunity**, this is **[my resume](https://drive.google.com/file/d/16L8pvVG2IpV64Oi4HUexWzxpDfz2wmj1/view?usp=drive_link)**.
 - 🔥 Passionate about building scalable web and applications, **experimenting with modern and optimized stacks**.
 - 📚 I’m currently learning **Python**.
 - 💬 Ask me about **Astro, React**.
-- 🌐 Visit **my [web portfolio](https://www.0xabdulkhalid.ml)**.
+- 🌐 Visit **my [web portfolio](https://github.com/Xanty10RR)**.
 - 📫 Feel free to **reach me out
 santiagocajamarca.37@gmail.com**.
 <br><br>
