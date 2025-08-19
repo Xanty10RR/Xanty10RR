@@ -4,22 +4,23 @@
 
 <div align="center">
 
-  <h1 style="font-size: 2.5em; font-weight: bold; color: #6D78F2; border: none;">
+  <h1 style="font-size: 2.5em; font-weight: bold; border: none;">
     Hi, I'm Daniel Santiago
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   </h1>
 
   <p>
-    <a href="mailto:santiagocajamarca.37@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    <a href="https://wa.me/573182580818">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-    </a>
-    <a href="https://www.linkedin.com/in/daniel-santiago-rosero-cajamarca-4420a91b0/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-  </p>
+  <a href="mailto:santiagocajamarca.37@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://wa.me/573182580818">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://www.linkedin.com/in/daniel-santiago-rosero-cajamarca-4420a91b0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
   <br>
 
 </div>
