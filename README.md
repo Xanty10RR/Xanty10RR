@@ -10,10 +10,10 @@
   </h1>
 
   <p>
-    <a href="mailto:ahmed.7oskaa@gmail.com">
+    <a href="mailto:santiagocajamarca.37@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="https://wa.me/0201208822340">
+    <a href="https://wa.me/573182580818">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
     </a>
     <a href="https://www.linkedin.com/in/7oskaa/" target="_blank">
