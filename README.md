@@ -25,7 +25,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/Xanty10RR/Xanty10RR/blob/main/foto-anime.png?raw=true" width = 250px></picture>
 <br>
 
 <p>I studied Software Programming and specialized in full stack web development and process systematization. I love to learn and face new challenges.</p>
