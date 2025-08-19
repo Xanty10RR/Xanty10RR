@@ -125,12 +125,13 @@ santiagocajamarca.37@gmail.com**.
   <img src="https://github-readme-stats.vercel.app/api?username=Xanty10RR&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas GitHub">
 </p>
 
-Contactar conmigo
-### 🤝🏻 &nbsp;Connect with Me
+<img src="https://giphy.com/gifs/boldshots-kkbold-j2pMVhdaBLOCmIaqEK" width="25"><b>**Contact With Me**</b>
 
-<p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-  <a href="https://colorate.azurewebsites.net/es/">
+<p align="center">
+
+  <a href="">
 	  <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Chrome">
   </a>
   <a href="mailto:santiagocajamarca.37@gmail.com">
