@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6D78F2&center=true&vCenter=true&width=1000&lines=Welcome+to+My+GitHub+Profile;Self-taught+Full+Stack+Developer,;Software+Programming+Student,;Learning+And+Researching+Continuously,;Love+To+Learn+New+Stuffs,;Passionate+About+Technology+And+Innovation,;Building+Projects+From+Scratch,;A+Boy+With+A+Growth+Mindset,;Always+Curious+And+Exploring+New+Tools+And+Languages,;Lover+Of+The+Gym,+Video+Games,+Music,+Travel,+And+Anime+..%E2%9D%A4;" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6D78F2&center=true&vCenter=true&width=1000&lines=Self-taught+Full+Stack+Developer,;Software+Programming+Student,;Learning+And+Researching+Continuously,;Love+To+Learn+New+Stuffs,;Passionate+About+Technology+And+Innovation,;Building+Projects+From+Scratch,;A+Boy+With+A+Growth+Mindset,;Always+Curious+And+Exploring+New+Tools+And+Languages,;Lover+Of+The+Gym,+Video+Games,+Music,+Travel,+And+Anime+..%E2%9D%A4;" alt="Typing SVG" /></a>
   </a>
 </p>
 <br>
