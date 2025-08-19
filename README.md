@@ -4,10 +4,10 @@
 
 <div align="center">
 
-  <h2 style="font-size: 2.5em; font-weight: bold; border-bottom: none;">
+  <h1 style="font-size: 2.5em; font-weight: bold; border-bottom: none;">
     Hi, I'm Daniel Santiago 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  </h2>
+  </h1>
 
   <p>
     <a href="mailto:ahmed.7oskaa@gmail.com">
@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6D78F2&center=true&vCenter=true&width=1000&lines=Hey%2C+I+am+Santiago;Welcome+to+My+GitHub+Profile;Self-taught+Full+Stack+Developer,;Software+Programming+Student,;Learning+And+Researching+Continuously,;Love+To+Learn+New+Stuffs,;Passionate+About+Technology+And+Innovation,;Building+Projects+From+Scratch,;A+Boy+With+A+Growth+Mindset,;Always+Curious+And+Exploring+New+Tools+And+Languages+..%E2%9D%A4;" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6D78F2&center=true&vCenter=true&width=1000&lines=Welcome+to+My+GitHub+Profile;Self-taught+Full+Stack+Developer,;Software+Programming+Student,;Learning+And+Researching+Continuously,;Love+To+Learn+New+Stuffs,;Passionate+About+Technology+And+Innovation,;Building+Projects+From+Scratch,;A+Boy+With+A+Growth+Mindset,;Always+Curious+And+Exploring+New+Tools+And+Languages+..%E2%9D%A4;" alt="Typing SVG" /></a>
   </a>
 </p>
 <br>
@@ -136,16 +136,6 @@ santiagocajamarca.37@gmail.com**.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Xanty10RR&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas GitHub">
 </p>
-
-<div>
-  <div align=center>
-      <img height="200" alt="Avatar photo of KK10" src="https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9" alt="Avatar photo of KK10">
-  </div>
-  <div align=center>
-	  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6D78F2&center=true&vCenter=true&width=1000&lines=Hey%2C+I+am+Santiago;Welcome+to+My+GitHub+Profile;Self-taught+Full+Stack+Developer,;Software+Programming+Student,;Learning+And+Researching+Continuously,;Love+To+Learn+New+Stuffs,;Passionate+About+Technology+And+Innovation,;Building+Projects+From+Scratch,;A+Boy+With+A+Growth+Mindset,;Always+Curious+And+Exploring+New+Tools+And+Languages+..%E2%9D%A4;" alt="Typing SVG" /></a>	  
-  </div>
-</div>
 
 
 
