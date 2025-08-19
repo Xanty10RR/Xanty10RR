@@ -127,7 +127,7 @@ santiagocajamarca.37@gmail.com**.
 
   [![](https://github-readme-stats.vercel.app/api/top-langs?username=Xanty10RR&show_icons=true&locale=en&layout=compact&theme=radical)]() 
   
- </div><br><br>
+ </div><br><br><br>
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFicWxmM21idTZxd2p5bzNqMzZ3ZWM4MGU4NzdsamZyd2lrcG5tZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zERwdCsUOpKUulcj2O/giphy.gif" width="25"><b>**Contact With Me**</b>
 
@@ -150,6 +150,7 @@ santiagocajamarca.37@gmail.com**.
   </a>
   
 </p>
+<br>
 
 
 
