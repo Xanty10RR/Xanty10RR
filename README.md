@@ -11,7 +11,7 @@
 
   <p>
 
-  <a href="">
+  <a href="https://colorate.azurewebsites.net/es/">
 	  <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Chrome">
   </a>
   <a href="mailto:santiagocajamarca.37@gmail.com">
