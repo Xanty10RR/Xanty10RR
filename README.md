@@ -142,7 +142,7 @@ santiagocajamarca.37@gmail.com**.
       <img height="200" alt="Avatar photo of KK10" src="https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9" alt="Avatar photo of KK10">
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Santiago;Welcome+to+My+GitHub+Profile;Self-taught+Full+Stack+Developer,;Software+Programming+Student,;Learning+And+Researching+Continuously,;Love+To+Learn+New+Stuffs,;Passionate+About+Technology+And+Innovation,;Building+Projects+From+Scratch,;A+Boy+With+A+Growth+Mindset,;Always+Curious+And+Exploring+New+Tools+And+Languages+..%E2%9D%A4;" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6D78F2&center=true&vCenter=true&width=1000&lines=Hey%2C+I+am+Santiago;Welcome+to+My+GitHub+Profile;Self-taught+Full+Stack+Developer,;Software+Programming+Student,;Learning+And+Researching+Continuously,;Love+To+Learn+New+Stuffs,;Passionate+About+Technology+And+Innovation,;Building+Projects+From+Scratch,;A+Boy+With+A+Growth+Mindset,;Always+Curious+And+Exploring+New+Tools+And+Languages+..%E2%9D%A4;" alt="Typing SVG" /></a>
   </div>
 </div>
 
