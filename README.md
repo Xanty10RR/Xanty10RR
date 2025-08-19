@@ -117,7 +117,7 @@ santiagocajamarca.37@gmail.com**.
   <br>
 </p>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3MwdmdqZ3hiMXN0MmRjenkwb243c3VkNG5venN2d2Mya2FzbXc1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ALMAOMdzibUWZtfdX7/giphy.gif" width="25"><b> Metrics</b>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3MwdmdqZ3hiMXN0MmRjenkwb243c3VkNG5venN2d2Mya2FzbXc1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ALMAOMdzibUWZtfdX7/giphy.gif" width="25"><b>**Metrics**</b>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -125,7 +125,7 @@ santiagocajamarca.37@gmail.com**.
   <img src="https://github-readme-stats.vercel.app/api?username=Xanty10RR&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas GitHub">
 </p>
 
-<img src="https://media.giphy.com/media/j2pMVhdaBLOCmIaqEK/giphy.gif" width="25"><b> **Contact With Me**</b>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFicWxmM21idTZxd2p5bzNqMzZ3ZWM4MGU4NzdsamZyd2lrcG5tZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zERwdCsUOpKUulcj2O/giphy.gif" width="25"><b>**Contact With Me**</b>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
