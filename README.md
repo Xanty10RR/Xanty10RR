@@ -18,7 +18,7 @@
 </p>
 <br>
 
-<img src="https://media.giphy.com/media/Mlo4NM8o0pbTHcof2M/giphy.gif" width="25"><b>**About Me**</b>
+<img src="https://media.giphy.com/media/Mlo4NM8o0pbTHcof2M/giphy.gif" width="25"><b> **About Me**</b>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -125,7 +125,7 @@ santiagocajamarca.37@gmail.com**.
   <img src="https://github-readme-stats.vercel.app/api?username=Xanty10RR&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas GitHub">
 </p>
 
-<img src="https://media.giphy.com/media/j2pMVhdaBLOCmIaqEK/giphy.gif" width="25"><b>**Contact With Me**</b>
+<img src="https://media.giphy.com/media/j2pMVhdaBLOCmIaqEK/giphy.gif" width="25"><b> **Contact With Me**</b>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
