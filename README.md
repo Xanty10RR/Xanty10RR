@@ -8,6 +8,7 @@
     Hi, I'm Daniel Santiago
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   </h1>
+  <br>
 
   <p>
     <a href="mailto:ahmed.7oskaa@gmail.com">
