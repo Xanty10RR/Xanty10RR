@@ -117,15 +117,15 @@ santiagocajamarca.37@gmail.com**.
   <br>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
 <img src="https://media.giphy.com/media/AwF7v6vu5GQUqZPMPc/giphy.gif" width="25"><b> Metrics</b>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Xanty10RR&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas GitHub">
 </p>
 
-<img src="https://media.giphy.com/media/j2pMVhdaBLOCmIaqEK/giphy.gif" width="25"><b>Contact With Me</b>
+<img src="https://media.giphy.com/media/j2pMVhdaBLOCmIaqEK/giphy.gif" width="25"><b>**Contact With Me**</b>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
