@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <h1 style="font-size: 2.5em; font-weight: bold; border-bottom: none;">
+  <h1 style="font-size: 2.5em; font-weight: bold; border-bottom: none; color:#6D78F2">
     Hi, I'm Daniel Santiago 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   </h1>
