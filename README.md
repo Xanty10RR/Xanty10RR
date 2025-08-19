@@ -131,15 +131,10 @@ santiagocajamarca.37@gmail.com**.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+<img src="https://media.giphy.com/media/AwF7v6vu5GQUqZPMPc/giphy.gif" width="25"><b> Metrics</b>
+
 <div style="text-align: center;">
-  <div style="display: inline-flex; align-items: center; gap: 8px; font-weight: bold;">
-    <img src="https://media.giphy.com/media/AwF7v6vu5GQUqZPMPc/giphy.gif" width="25" alt="Icono">
-    <span><b>Statistics</b></span>
-  </div>
-  
-  <!-- Imagen de estadísticas de GitHub -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Xanty10RR&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas GitHub">
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Xanty10RR&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas GitHub">
 </div>
+
 
