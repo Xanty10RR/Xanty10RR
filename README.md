@@ -127,7 +127,8 @@ santiagocajamarca.37@gmail.com**.
 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Xanty10RR&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas GitHub">
 
-  [![](https://github-readme-stats.vercel.app/api/top-langs?username=Xanty10RR&show_icons=true&locale=en&layout=compact&theme=radical)]() 
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xanty10RR&show_icons=true&theme=radical&hide_border=true&cache_seconds=60)
+ 
   
  </div><br><br><br>
 
