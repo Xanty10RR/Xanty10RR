@@ -8,6 +8,7 @@
     Hi, I'm Daniel Santiago
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDlybTk1Z2UzM3Q0dm45MHl6ODV3aHUwa3c1d2pmMzhwdHFxNmVsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="35">
   </h1>
+  <br>
   
 </div>
 
