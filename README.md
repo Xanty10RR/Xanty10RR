@@ -11,14 +11,13 @@
   
 </div>
 
-<br>
+<br><br>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6D78F2&center=true&vCenter=true&width=1000&lines=Self-taught+Full+Stack+Developer,;Software+Programming+Student,;Learning+And+Researching+Continuously,;Love+To+Learn+New+Stuffs,;Passionate+About+Technology+And+Innovation,;Building+Projects+From+Scratch,;A+Boy+With+A+Growth+Mindset,;Always+Curious+And+Exploring+New+Tools+And+Languages,;Lover+Of+The+Gym,+Video+Games,+Music,+Travel,+And+Anime+..%E2%9D%A4;" alt="Typing SVG" /></a>
   </a>
 </p>
-<br>
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZrODMwbjNzdHV3dzlrcWM3d2lwa3ViOG1hOXV4bWM0eGl1MDA2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/B6ks3eTSxhk4EvABa6/giphy.gif" width="25"><b>**About Me**</b>
 
