@@ -119,7 +119,6 @@ santiagocajamarca.37@gmail.com**.
 </p>
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3MwdmdqZ3hiMXN0MmRjenkwb243c3VkNG5venN2d2Mya2FzbXc1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ALMAOMdzibUWZtfdX7/giphy.gif" width="25">
-
 <b>**Metrics**</b>
 
 
