@@ -90,12 +90,10 @@ santiagocajamarca.37@gmail.com**.
   <br><br>
 
 - **APIs & IAs**
-
-   ![Twilio API](https://img.shields.io/badge/Twilio_API-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+  
    ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
    ![Webhooks](https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge&logo=webhooks&logoColor=white)
    ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-   ![Deepseek](https://img.shields.io/badge/Deepseek-036?style=for-the-badge&logo=deepseek&logoColor=white)
    ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 <br><br>
 
