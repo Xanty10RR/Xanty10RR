@@ -35,7 +35,7 @@
 - 🔥 Passionate about building scalable web and applications, **experimenting with modern and optimized stacks**.
 - 📚 I’m currently learning **Python**.
 - 💬 Ask me about **Astro, React**.
-- 🌐 Visit **my [web portfolio](https://github.com/Xanty10RR)**.
+- 🌐 Visit **my [web portfolio](https://santiagorc-portfolio.vercel.app/)**.
 - 📫 Feel free to **reach me out
 santiagocajamarca.37@gmail.com**.
 <br><br>
