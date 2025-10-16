@@ -31,7 +31,7 @@
 <p>I studied Software Programming and specialize in full stack web development and process systematization. I love to learn and face new challenges, which drives me to continually improve my skills.</p>
 <p>Since then, I've been continuously learning and growing in this field, improving my technical skills, adopting good development practices, and during my internships, I've developed projects that have allowed me to implement efficient and scalable solutions in real-world environments.</p>
 
-- 📄 I am currently **available for a new job opportunity**, this is **[my resume](https://drive.google.com/file/d/16L8pvVG2IpV64Oi4HUexWzxpDfz2wmj1/view?usp=drive_link)**.
+- 📄 I am currently **available for a new job opportunity**, this is **[my resume](https://drive.google.com/file/d/1cTK_CSq9ho8dn1gG0rAxAa2hnAahbjmY/view?usp=drive_link)**.
 - 🔥 Passionate about building scalable web and applications, **experimenting with modern and optimized stacks**.
 - 📚 I’m currently learning **Python**.
 - 💬 Ask me about **Astro, React**.
