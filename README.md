@@ -127,8 +127,9 @@
 </div>
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Xanty10RR&show_icons=true&theme=tokyonight&langs_count=7&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Xanty10RR&layout=compact&theme=tokyonight&langs_count=7&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xanty10RR&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xanty10RR&layout=compact&theme=tokyonight&langs_count=20&hide_border=true"/>
 
 </div>
 
