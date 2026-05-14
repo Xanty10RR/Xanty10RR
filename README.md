@@ -121,7 +121,9 @@
 
 <div align="center">
 
-[![Xanty10RR's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xanty10RR)](https://github.com/Xanty10RR/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xanty10RR&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xanty10RR&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
