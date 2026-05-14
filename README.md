@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <h1 style="font-size: 2.5em; font-weight: bold; border: none;">
+  <h1 style="font-size: 2.0em; font-weight: bold; border: none;">
     Hi, I'm Daniel Santiago
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDlybTk1Z2UzM3Q0dm45MHl6ODV3aHUwa3c1d2pmMzhwdHFxNmVsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="35">
   </h1>
@@ -13,7 +13,7 @@
 
 <br><br>
 
-<p align="center">
+<p style="font-size: 2.5em; align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6D78F2&center=true&vCenter=true&width=1000&lines=Self-taught+Full+Stack+Developer,;Software+Programming+Student,;Learning+And+Researching+Continuously,;Love+To+Learn+New+Stuffs,;Passionate+About+Technology+And+Innovation,;Building+Projects+From+Scratch,;A+Boy+With+A+Growth+Mindset,;Always+Curious+And+Exploring+New+Tools+And+Languages,;Lover+Of+The+Gym,+Video+Games,+Music,+Travel,+And+Anime+..%E2%9D%A4;" alt="Typing SVG" /></a>
   </a>
