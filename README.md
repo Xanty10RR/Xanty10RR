@@ -121,10 +121,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xanty10RR&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xanty10RR&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+[![Xanty10RR's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xanty10RR)](https://github.com/Xanty10RR/github-readme-stats)
 
 </div>
 
