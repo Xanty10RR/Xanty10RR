@@ -121,8 +121,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Xanty10RR&show_icons=true&theme=tokyonight&langs_count=7"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Xanty10RR&layout=compact&theme=tokyonight&langs_count=7"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Xanty10RR&show_icons=true&theme=transparent&langs_count=7&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Xanty10RR&layout=compact&theme=transparent&langs_count=7&hide_border=true"/>
 
 </div>
 
