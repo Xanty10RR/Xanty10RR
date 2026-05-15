@@ -119,17 +119,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<div align="center">
+<div style="center">
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Xanty10RR&show_icons=true&theme=tokyonight&langs_count=8&hide_border=true&cache_seconds=1&v=2"/>
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Xanty10RR&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&cache_seconds=1&v=2"/>
-
-</div>
-
-<div align="center"> 
-	
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xanty10RR&show_icons=true&theme=radical&hide_border=true&cache_seconds=60) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xanty10RR&layout=compact&theme=radical&langs_count=10&hide_border=true&cache_seconds=60) 
 
 </div>
 
