@@ -6,7 +6,7 @@
 
   <h1 style="font-size: 2.0em; font-weight: bold; border: none;">
     Hi, I'm Daniel Santiago
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDlybTk1Z2UzM3Q0dm45MHl6ODV3aHUwa3c1d2pmMzhwdHFxNmVsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="35">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDlybTk1Z2UzM3Q0dm45MHl6ODV3aHUwa3c1d2pmMzhwdHFxNmVsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="3[...]"
   </h1>
   
 </div>
@@ -15,12 +15,12 @@
 
 <p style="font-size: 2.5em; align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6D78F2&center=true&vCenter=true&width=1000&lines=Self-taught+F[...]"
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6D78F2&center=true&vCenter=true&width=1000&lines=Self-taug[...]"
   </a>
 </p>
 <br>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZrODMwbjNzdHV3dzlrcWM3d2lwa3ViOG1hOXV4bWM0eGl1MDA2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/B6ks3eTSxhk4EvABa6/giphy.gif" width="25">About Me
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZrODMwbjNzdHV3dzlrcWM3d2lwa3ViOG1hOXV4bWM0eGl1MDA2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/B6ks3eTSxhk4EvABa6/giphy.gif" width="25">[...]
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -28,7 +28,7 @@
 <picture> <img align="right" src="https://github.com/Xanty10RR/Xanty10RR/blob/main/foto-anime.png?raw=true" width=180px></picture>
 <br>
 
-<p>I studied Software Programming and specialize in full stack web development and process systematization. I love to learn and face new challenges, which drives me to continually improve my skill[...]
+<p>I studied Software Programming and specialize in full stack web development and process systematization. I love to learn and face new challenges, which drives me to continually improve my skill[...] 
 <p>Since then, I've been continuously learning and growing in this field, improving my technical skills, adopting good development practices, and during my internships, I've developed projects tha[...]
 
 - 📄 I am currently **available for a new job opportunity**, this is **[my resume](https://drive.google.com/file/d/1cTK_CSq9ho8dn1gG0rAxAa2hnAahbjmY/view?usp=drive_link)**.
@@ -113,7 +113,7 @@
   <br>
 </p>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3MwdmdqZ3hiMXN0MmRjenkwb243c3VkNG5venN2d2Mya2FzbXc1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ALMAOMdzibUWZtfdX7/giphy.gif" width="25">Metrics
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3MwdmdqZ3hiMXN0MmRjenkwb243c3VkNG5venN2d2Mya2FzbXc1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ALMAOMdzibUWZtfdX7/giphy.gif" width="25"[...] 
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -133,7 +133,7 @@
   
 </div>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFicWxmM21idTZxd2p5bzNqMzZ3ZWM4MGU4NzdsamZyd2lrcG5tZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zERwdCsUOpKUulcj2O/giphy.gif" width="25">About Me
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFicWxmM21idTZxd2p5bzNqMzZ3ZWM4MGU4NzdsamZyd2lrcG5tZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zERwdCsUOpKUulcj2O/giphy.gif" width="25"[...] 
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
