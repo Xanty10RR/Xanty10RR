@@ -20,7 +20,7 @@
 </p>
 <br>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZrODMwbjNzdHV3dzlrcWM3d2lwa3ViOG1hOXV4bWM0eGl1MDA2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/B6ks3eTSxhk4EvABa6/giphy.gif" width="25">[...]
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZrODMwbjNzdHV3dzlrcWM3d2lwa3ViOG1hOXV4bWM0eGl1MDA2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/B6ks3eTSxhk4EvABa6/giphy.gif" width="25">About Me
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -113,7 +113,7 @@
   <br>
 </p>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3MwdmdqZ3hiMXN0MmRjenkwb243c3VkNG5venN2d2Mya2FzbXc1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ALMAOMdzibUWZtfdX7/giphy.gif" width="25">[...]
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3MwdmdqZ3hiMXN0MmRjenkwb243c3VkNG5venN2d2Mya2FzbXc1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ALMAOMdzibUWZtfdX7/giphy.gif" width="25">Metrics
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -133,7 +133,7 @@
   
 </div>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFicWxmM21idTZxd2p5bzNqMzZ3ZWM4MGU4NzdsamZyd2lrcG5tZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zERwdCsUOpKUulcj2O/giphy.gif" width="25">[...]
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFicWxmM21idTZxd2p5bzNqMzZ3ZWM4MGU4NzdsamZyd2lrcG5tZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zERwdCsUOpKUulcj2O/giphy.gif" width="25">About Me
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
