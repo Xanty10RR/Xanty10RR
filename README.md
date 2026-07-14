@@ -28,12 +28,12 @@
 <picture> <img align="right" src="https://github.com/Xanty10RR/Xanty10RR/blob/main/foto-anime.png?raw=true" width=180px></picture>
 <br>
 
-<p>I studied Software Programming and specialize in full stack web development and process systematization. I love to learn and face new challenges, which drives me to continually improve my skill[...] 
+<p>I studied Software Programming and specialize in full stack web development and process systematization. I love to learn and face new challenges, which drives me to continually improve my skill[...]
 <p>Since then, I've been continuously learning and growing in this field, improving my technical skills, adopting good development practices, and during my internships, I've developed projects tha[...]
 
 - 📄 I am currently **available for a new job opportunity**, this is **[my resume](https://drive.google.com/file/d/1cTK_CSq9ho8dn1gG0rAxAa2hnAahbjmY/view?usp=drive_link)**.
 - 🔥 Passionate about building scalable web and applications, **experimenting with modern and optimized stacks**.
-- 📚 I’m currently learning **Python**.
+- ���� I’m currently learning **Python**.
 - 💬 Ask me about **Astro, React**.
 - 🌐 Visit **my [web portfolio](https://santiagorc-portfolio.vercel.app/)**.
 - 📫 Feel free to **reach me out at [santiagocajamarca.37@gmail.com](mailto:santiagocajamarca.37@gmail.com)**.
@@ -113,7 +113,7 @@
   <br>
 </p>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3MwdmdqZ3hiMXN0MmRjenkwb243c3VkNG5venN2d2Mya2FzbXc1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ALMAOMdzibUWZtfdX7/giphy.gif" width="25"[...] 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3MwdmdqZ3hiMXN0MmRjenkwb243c3VkNG5venN2d2Mya2FzbXc1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ALMAOMdzibUWZtfdX7/giphy.gif" width="25">[...]
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -125,15 +125,7 @@
 
 </div>
 
-<div align="center">
-  
-  <a href="https://gitfut.com/Xanty10RR">
-    <img src="https://gitfut.com/Xanty10RR.png" alt="GitFut Card" style="width:220px; max-width:100%; height:auto;">
-  </a>
-  
-</div>
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFicWxmM21idTZxd2p5bzNqMzZ3ZWM4MGU4NzdsamZyd2lrcG5tZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zERwdCsUOpKUulcj2O/giphy.gif" width="25"[...] 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFicWxmM21idTZxd2p5bzNqMzZ3ZWM4MGU4NzdsamZyd2lrcG5tZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zERwdCsUOpKUulcj2O/giphy.gif" width="25">[...]
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -155,3 +147,6 @@
   
 </p>
 <br>
+
+
+
