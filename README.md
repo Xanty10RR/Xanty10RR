@@ -125,6 +125,14 @@
 
 </div>
 
+<div align="center">
+  
+  <a href="https://gitfut.com/Xanty10RR">
+    <img src="https://gitfut.com/Xanty10RR.png" alt="GitFut Card" style="width:220px; max-width:100%; height:auto;">
+  </a>
+  
+</div>
+
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFicWxmM21idTZxd2p5bzNqMzZ3ZWM4MGU4NzdsamZyd2lrcG5tZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zERwdCsUOpKUulcj2O/giphy.gif" width="25"><b>**Contact With Me**</b>
 
 
