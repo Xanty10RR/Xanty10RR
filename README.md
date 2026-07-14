@@ -15,12 +15,12 @@
 
 <p style="font-size: 2.5em; align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6D78F2&center=true&vCenter=true&width=1000&lines=Self-taught+Full+Stack+Developer,;Software+Programming+Student,;Learning+And+Researching+Continuously,;Love+To+Learn+New+Stuffs,;Passionate+About+Technology+And+Innovation,;Building+Projects+From+Scratch,;A+Boy+With+A+Growth+Mindset,;Always+Curious+And+Exploring+New+Tools+And+Languages,;Lover+Of+The+Gym,+Video+Games,+Music,+Travel,+And+Anime+..%E2%9D%A4;" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6D78F2&center=true&vCenter=true&width=1000&lines=Self-taught+F[...]
   </a>
 </p>
 <br>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZrODMwbjNzdHV3dzlrcWM3d2lwa3ViOG1hOXV4bWM0eGl1MDA2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/B6ks3eTSxhk4EvABa6/giphy.gif" width="25"><b>**About Me**</b>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZrODMwbjNzdHV3dzlrcWM3d2lwa3ViOG1hOXV4bWM0eGl1MDA2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/B6ks3eTSxhk4EvABa6/giphy.gif" width="25"><b>*[...]
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -28,12 +28,12 @@
 <picture> <img align="right" src="https://github.com/Xanty10RR/Xanty10RR/blob/main/foto-anime.png?raw=true" width=180px></picture>
 <br>
 
-<p>I studied Software Programming and specialize in full stack web development and process systematization. I love to learn and face new challenges, which drives me to continually improve my skills.</p>
-<p>Since then, I've been continuously learning and growing in this field, improving my technical skills, adopting good development practices, and during my internships, I've developed projects that have allowed me to implement efficient and scalable solutions in real-world environments.</p>
+<p>I studied Software Programming and specialize in full stack web development and process systematization. I love to learn and face new challenges, which drives me to continually improve my skills.</[...]
+<p>Since then, I've been continuously learning and growing in this field, improving my technical skills, adopting good development practices, and during my internships, I've developed projects that ha[...]
 
 - 📄 I am currently **available for a new job opportunity**, this is **[my resume](https://drive.google.com/file/d/1cTK_CSq9ho8dn1gG0rAxAa2hnAahbjmY/view?usp=drive_link)**.
 - 🔥 Passionate about building scalable web and applications, **experimenting with modern and optimized stacks**.
-- 📚 I’m currently learning **Python**.
+- 📚 I'm currently learning **Python**.
 - 💬 Ask me about **Astro, React**.
 - 🌐 Visit **my [web portfolio](https://santiagorc-portfolio.vercel.app/)**.
 - 📫 Feel free to **reach me out at [santiagocajamarca.37@gmail.com](mailto:santiagocajamarca.37@gmail.com)**.
@@ -113,7 +113,7 @@
   <br>
 </p>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3MwdmdqZ3hiMXN0MmRjenkwb243c3VkNG5venN2d2Mya2FzbXc1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ALMAOMdzibUWZtfdX7/giphy.gif" width="25"><b>**Metrics**</b>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3MwdmdqZ3hiMXN0MmRjenkwb243c3VkNG5venN2d2Mya2FzbXc1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ALMAOMdzibUWZtfdX7/giphy.gif" width="25"><b>*[...]
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -125,8 +125,9 @@
 
 </div>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFicWxmM21idTZxd2p5bzNqMzZ3ZWM4MGU4NzdsamZyd2lrcG5tZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zERwdCsUOpKUulcj2O/giphy.gif" width="25"><b>**Contact With Me**</b>
-
+<div align="center">
+  [![My GitFut card](https://gitfut.com/Xanty10RR.png)](https://gitfut.com/Xanty10RR)
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -147,6 +148,3 @@
   
 </p>
 <br>
-
-
-
