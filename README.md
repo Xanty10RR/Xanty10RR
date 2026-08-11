@@ -120,8 +120,8 @@
 
 <div align="center">
 
-[![Xanty10RR GitHub stats](https://github-stats-extended.vercel.app/api?username=Xanty10RR&theme=tokyonight&hide_rank=true)](https://github.com/Xanty10RR)
-[![Lenguajes más usados de Xanty10RR](https://github-stats-extended.vercel.app/api/top-langs/?username=Xanty10RR&layout=compact&theme=tokyonight&langs_count=8&hide_border=true)](https://github.com/Xanty10RR)
+[![Xanty10RR GitHub stats](https://github-stats-extended.vercel.app/api?username=Xanty10RR&theme=tokyonight&hide_rank=false)](https://github.com/Xanty10RR)
+[![Lenguajes más usados de Xanty10RR](https://github-stats-extended.vercel.app/api/top-langs/?username=Xanty10RR&layout=compact&theme=tokyonight&langs_count=8&hide_border=false)](https://github.com/Xanty10RR)
 </div>
 
 </div>
