@@ -120,7 +120,7 @@
 
 <div align="center">
 
-[![Xanty10RR GitHub stats](https://github-stats-extended.vercel.app/api?username=xanty10rr)](https://github.com/stats-organization/github-stats-extended)
+[![Xanty10RR GitHub stats](https://github-stats-extended.vercel.app/api?username=Xanty10RR)](https://github.com/stats-organization/github-stats-extended)
 [![Lenguajes más usados de Xanty10RR](https://github-stats-extended.vercel.app/api/top-langs/?username=Xanty10RR&layout=compact&theme=tokyonight&langs_count=8&hide_border=true)](https://github.com/Xanty10RR)
 </div>
 
